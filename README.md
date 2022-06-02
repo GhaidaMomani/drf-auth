@@ -1,5 +1,8 @@
 # drf-auth
 
+
+![image](assets/authToken.png)
+
 ![image](../drf-auth/assets/gamedetail.png)
 
 ![image](../drf-auth/assets/authToken.png)
